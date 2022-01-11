@@ -1,0 +1,6 @@
+type: S3
+config:
+  bucket: ken-tfstate
+  endpoint: s3.us-west-1.amazonaws.com
+  signature_version2: false
+  encryptsse: true
